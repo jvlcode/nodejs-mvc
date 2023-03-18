@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Logesh",
+        "email" : "logesh@jvlcode.com",
+        "password": "12345678"
+    },
+    {
+        "name": "Suresh",
+        "email" : "suresh@jvlcode.com",
+        "password": "87654321"
+    }
+]
